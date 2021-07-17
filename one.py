@@ -1,3 +1,4 @@
 a="vrdh"
 b="madhu"
-print(a+b)
+c="dhari"
+print(a+b+c)
